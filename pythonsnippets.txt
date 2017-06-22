@@ -1,0 +1,24 @@
+Useful Python snippets
+
+#Introductory comments and a title
+
+# Progam which calculates what tip you should leave based on the price
+# of the meal that you enter. Gives both 15% and 20%
+
+print("** Welcome to the tip calculator program. **\n \
+*******************************************\n")
+
+#hold window for user input
+input("\n\nPress the enter key to exit.")
+
+#ask question and get user input in one line
+data = input("Please input data: ")
+
+#ask question and get user input in one line with type cast
+mealPrice = float(input("What did your bill for the meal com to come to?: "))
+
+#import a module
+import random
+
+#increment operator
+tries += 1
